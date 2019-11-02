@@ -1,4 +1,3 @@
-package finishedMaybeDebuggedManual;
 import java.util.Scanner;
 
 public class Test {

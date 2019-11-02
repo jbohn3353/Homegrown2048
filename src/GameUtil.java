@@ -1,5 +1,3 @@
-package finishedMaybeDebuggedManual;
-
 public class GameUtil{
 	
 	public static final int NUM_SPACES = 4;

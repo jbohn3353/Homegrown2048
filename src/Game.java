@@ -1,6 +1,3 @@
-package finishedMaybeDebuggedManual;
-
-
 /* direction is broken down into horizontal and vertical components with
  * 1 being right and -1 being left for the horizontal and
  * 1 being up and -1 being down for the vertical
